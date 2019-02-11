@@ -21,7 +21,6 @@ public class SpringBootJwtAuthenticationApplication  extends SpringBootServletIn
 
 	@Override
 	public void run(String... args) throws Exception {
-		//storageService.deleteAll();
-		//storageService.init();
+		 
 	}
 }
